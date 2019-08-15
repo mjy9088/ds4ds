@@ -1,0 +1,19 @@
+{
+  "name": "ds4ds",
+  "version": "1.0.0",
+  "description": "Data stroage for datetime and string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjy9088/ds4ds.git"
+  },
+  "author": "mjy9088 <mjy9088@naver.com> (https://github.com/mjy9088)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjy9088/ds4ds/issues"
+  },
+  "homepage": "https://github.com/mjy9088/ds4ds#readme"
+}
