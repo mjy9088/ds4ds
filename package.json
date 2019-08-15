@@ -1,6 +1,6 @@
 {
   "name": "ds4ds",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Data stroage for datetime and string",
   "main": "index.js",
   "scripts": {
