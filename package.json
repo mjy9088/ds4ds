@@ -1,7 +1,7 @@
 {
   "name": "ds4ds",
-  "version": "0.0.1",
-  "description": "Data stroage for datetime and string",
+  "version": "0.0.2",
+  "description": "Data store for datetime and string",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
